@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TurboWarp/scratch-audio.git"
+    "url": "git+https://github.com/02engine/scratch-audio.git"
   },
   "license": "BSD-3-Clause",
   "bugs": {
